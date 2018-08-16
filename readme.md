@@ -1,4 +1,4 @@
-# learmin objectives for individual work
+# learning objectives for individual work
 
 * Network activity
 * Remotes
@@ -7,3 +7,5 @@
 * Student repositories
 * GitHub Classroom
 * Permissions
+* Exercises
+* Automated testing
