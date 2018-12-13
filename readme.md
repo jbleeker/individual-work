@@ -1,4 +1,4 @@
-# learning objectives for individual work 
+# learning objectives for individual work
 
 * Network activity
 * Remotes
@@ -9,3 +9,5 @@
 * Permissions
 * Exercises
 * Automated testing
+
+* extra line
